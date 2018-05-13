@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525942598 source:c:\users\kevin\desktop\cprogs\pas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
